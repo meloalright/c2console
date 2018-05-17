@@ -1,0 +1,13 @@
+[
+{
+    "id": "edit",
+    "children":
+    [
+
+        {
+            "id" : "c2console",
+            "caption": "c2console"
+        }
+    ]
+}
+]
