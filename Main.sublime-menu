@@ -15,6 +15,20 @@
                         "caption": "c2console",
                         "children":
                         [
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/c2console/README.md"
+                                },
+                                "caption": "README.md"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/c2console/package.json"
+                                },
+                                "caption": "package.json"
+                            },
                             { "caption": "-" }
                         ]
                     }
