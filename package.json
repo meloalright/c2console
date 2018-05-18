@@ -1,7 +1,7 @@
 {
   "name": "c2console",
   "version": "0.0.1",
-  "description": "A sublime plugin to automatic query console when type letter c",
+  "description": "A simple sublime plugin to query console  automatically when type letter c",
   "main": "c2console.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
