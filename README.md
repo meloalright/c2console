@@ -18,7 +18,7 @@
 
 3. Command + Shift + p ->  "Package Control: Install Package"
 
-4. search "c2console"
+4. search "c2console" -> select "c2console"
 
 5. Ok! -> Restart Sublime Text
 ```   
