@@ -25,7 +25,7 @@
    
 ## issues       
    
-[sublime-da-ui - 39](https://github.com/ihodev/sublime-da-ui/issues/39)   
+[can't install: HTTP exception InvalidCertificateException error](https://github.com/ihodev/sublime-da-ui/issues/39)   
    
    
 ## license   
