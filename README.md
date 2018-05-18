@@ -1,10 +1,13 @@
 ![demo](./demo.gif)   
-
+   
+   
 # c2console   
-
+   
 `A sublime plugin to automatic query console when type letter c`
    
-### install   
+   
+   
+## install   
    
 ```
 1. Command + Shift + p ->  "Package Control: Add Repository"
@@ -18,10 +21,13 @@
 5. Ok! -> Restart Sublime Text
 ```   
    
-### some issues       
    
-[sublime-da-ui/issues/39](https://github.com/ihodev/sublime-da-ui/issues/39)   
    
-### License   
+## issues       
+   
+[sublime-da-ui - 39](https://github.com/ihodev/sublime-da-ui/issues/39)   
+   
+   
+## license   
    
 [MIT](https://revolunet.mit-license.org/)   
