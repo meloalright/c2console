@@ -1,10 +1,11 @@
 [
 {
-    "id": "edit",
+    "id": "tools",
     "children":
     [
 
         {
+            "caption": "c2console",
             "id" : "c2console",
             "caption": "c2console"
         }
