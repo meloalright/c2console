@@ -3,7 +3,9 @@
    
 # c2console   
    
-`A sublime plugin to automatic query console when type letter c`
+`这是一个用于快速打出 console.log 的 sublime 插件`   
+   
+`A sublime plugin to automatic query console when type letter c`   
    
    
    
