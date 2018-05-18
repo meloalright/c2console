@@ -18,11 +18,10 @@
 5. Ok! -> Restart Sublime Text
 ```   
    
-`some issues`    
+### some issues       
    
-[issue](https://github.com/ihodev/sublime-da-ui/issues/39)   
+[sublime-da-ui/issues/39](https://github.com/ihodev/sublime-da-ui/issues/39)   
    
-
 ### License   
    
 [MIT](https://revolunet.mit-license.org/)   
