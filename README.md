@@ -32,11 +32,11 @@
 [can't install: HTTP exception InvalidCertificateException error](https://github.com/ihodev/sublime-da-ui/issues/39)     
     
       
-## source 
-   
-Author - [@meloalright](https://github.com/meloalright)   
+## source    
    
 Repository - [c2console](https://github.com/meloalright/c2console)      
+   
+Author - [@meloalright](https://github.com/meloalright)   
    
    
 ## license   
