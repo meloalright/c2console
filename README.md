@@ -34,9 +34,9 @@
       
 ## source    
    
-Repository - [c2console](https://github.com/meloalright/c2console)      
+Repository: [c2console](https://github.com/meloalright/c2console)      
    
-Author - [@meloalright](https://github.com/meloalright)   
+Author: [@meloalright](https://github.com/meloalright)   
    
    
 ## license   
