@@ -29,16 +29,16 @@
    
 ## issues       
    
-[can't install: HTTP exception InvalidCertificateException error](https://github.com/ihodev/sublime-da-ui/issues/39)   
-   
-   
-## license   
-   
-[MIT](https://revolunet.mit-license.org/)    
-   
+[can't install: HTTP exception InvalidCertificateException error](https://github.com/ihodev/sublime-da-ui/issues/39)     
+    
       
 ## source 
    
 Author - [@meloalright](https://github.com/meloalright)   
    
 Repository - [c2console](https://github.com/meloalright/c2console)      
+   
+   
+## license   
+   
+[MIT](https://revolunet.mit-license.org/)   
