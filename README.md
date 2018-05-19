@@ -1,6 +1,8 @@
 ![demo](./demo.gif)   
    
    
+   
+   
 # c2console   
    
 `这是一个用于快速打出 console.log 的 sublime 插件`   
@@ -32,4 +34,11 @@
    
 ## license   
    
-[MIT](https://revolunet.mit-license.org/)   
+[MIT](https://revolunet.mit-license.org/)    
+   
+      
+## source 
+   
+Author - [@meloalright](https://github.com/meloalright)   
+   
+Repository - [c2console](https://github.com/meloalright/c2console)      
