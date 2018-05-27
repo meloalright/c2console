@@ -11,25 +11,31 @@
    
    
    
+# package-control    
+   
+`已经收录到 package-control`      
+`search result in package-control`  
+   
+[packagecontrol.io](https://packagecontrol.io/search/c2console)    
+   
+   
+   
+   
 ## install   
    
 ```
-1. Command + Shift + p ->  "Package Control: Add Repository"
+1. Command + Shift + p ->  "Package Control: Install Package"
 
-2. input "https://github.com/meloalright/c2console"
+2. search "c2console" -> select "c2console"
 
-3. Command + Shift + p ->  "Package Control: Install Package"
-
-4. search "c2console" -> select "c2console"
-
-5. Ok! -> Restart Sublime Text
+3. Ok! -> Restart Sublime Text
 ```   
    
    
    
 ## issues       
    
-[can't install: HTTP exception InvalidCertificateException error](https://github.com/ihodev/sublime-da-ui/issues/39)     
+[#39](https://github.com/ihodev/sublime-da-ui/issues/39)     
     
       
 ## source    
