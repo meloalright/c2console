@@ -7,16 +7,16 @@
    
 `这是一个用于快速打出 console.log 的 sublime 插件`   
    
-`A simple sublime plugin to query console  automatically when type letter c`   
+`A simple sublime plugin to complete console automatically when type letter c`   
    
    
    
 # package-control    
    
-`已经收录到 package-control`      
-`search result in package-control`  
+`已经收录到 package-control:`      
+`search results in package-control:`  
    
-[packagecontrol.io](https://packagecontrol.io/search/c2console)    
+Package-control: [#c2console](https://packagecontrol.io/search/c2console)    
    
    
    
