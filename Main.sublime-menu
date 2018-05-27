@@ -13,7 +13,15 @@
                 [
                     {
                         "caption": "c2console",
-                        "children": []
+                        "children": [
+                            {
+                                "command": "open_url", "args":
+                                {
+                                    "url": "https://github.com/meloalright/c2console"
+                                },
+                                "caption": "Github - c2console"
+                            }
+                        ]
                     }
                 ]
             }
