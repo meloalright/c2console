@@ -13,8 +13,9 @@
    
 # package-control    
    
-`已经收录到 package-control:`      
-`search results in package-control:`  
+`已经收录到 package-control:`   
+   
+`search results in package-control:`    
    
 Package-control: [#c2console](https://packagecontrol.io/search/c2console)    
    
