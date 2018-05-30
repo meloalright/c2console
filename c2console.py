@@ -1,3 +1,7 @@
+'''
+ c2console v0.2.0
+ @meloalright
+'''
 import sublime
 import sublime_plugin
 import re
@@ -11,12 +15,11 @@ class c2console(sublime_plugin.EventListener):
     def on_query_completions(self, view, prefix, locations):
 
         snippet = []
-        extension = re.match(r'.*\.(.*?)$', view.file_name()).group(1)
-
-        # if not js and then return
-        if extension != 'js':
+        is_inside_tag = view.match_selector(locations[0],
+                "source.js")
+        # if not js scope then return
+        if not is_inside_tag:
             return snippet
-
         # only works on specific input
         match = re.compile(prefix).match('console')
 

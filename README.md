@@ -7,7 +7,7 @@
    
 `这是一个用于快速打出 console.log 的 sublime 插件`   
    
-`A simple sublime plugin to complete console automatically when type letter c`   
+`A simple sublime plugin to complete console.log automatically when type letter c`   
    
    
    
