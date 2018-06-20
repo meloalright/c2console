@@ -10,7 +10,7 @@
 `A simple sublime plugin to complete console.log automatically when type letter c`    
     
     
-> 仓库地址: [Github - c2console](https://github.com/meloalright/c2console)
+[Github repository]仓库地址: [Github - c2console](https://github.com/meloalright/c2console)
    
    
    
