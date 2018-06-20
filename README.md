@@ -1,4 +1,4 @@
-![demo.png](./demo.png)    
+![wow.png](./wow.png)    
     
      
      
@@ -8,20 +8,10 @@
 `这是一个用于快速打出 console.log 的 sublime 插件`   
    
 `A simple sublime plugin to complete console.log automatically when type letter c`    
-   
-   
-   
-   
-   
-> c2console仓库地址   
-[Github - c2console](https://github.com/meloalright/c2console)      
-   
-   
-   
-   
-   
-![demo.light.gif](./demo.light.gif)   
     
+    
+> 仓库地址 [Github - c2console](https://github.com/meloalright/c2console)
+   
    
    
    
