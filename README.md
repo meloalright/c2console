@@ -5,9 +5,9 @@
      
 # c2console   
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) 
-[![downloads](https://img.shields.io/badge/downloads-100%2B%2Fmonth-brightgreen.svg)](https://packagecontrol.io/packages/C2console) 
-[![platform](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey.svg)](https://packagecontrol.io/packages/C2console)   
- 
+[![downloads](https://img.shields.io/badge/downloads-100%2B%2Fmonth-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
+    
+    
    
    
 `这是一个用于快速打出 console.log 的 sublime 插件`   
