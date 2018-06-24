@@ -3,9 +3,7 @@
      
      
      
-# c2console   
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) 
-[![downloads](https://img.shields.io/badge/downloads-100%2B%2Fmonth-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
+# c2console    [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) [![downloads](https://img.shields.io/badge/downloads-100%2B%2Fmonth-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
     
     
    
