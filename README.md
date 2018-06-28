@@ -23,14 +23,16 @@
    
 `已经收录到 package-control:`   
    
-`search results in package-control:`    
+`released in package-control:`    
    
-[Package Control - c2console](https://packagecontrol.io/search/c2console)    
-   
-   
+[Package Control - c2console](https://packagecontrol.io/packages/C2console)    
    
    
-## install   
+   
+   
+## install    
+   
+`安装方法:`   
    
 ```
 1. Command + Shift + p ->  "Package Control: Install Package"
