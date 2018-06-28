@@ -32,7 +32,7 @@
    
 ## install    
    
-`安装方法:`   
+`如何在 sublime 安装:`   
    
 ```
 1. Command + Shift + p ->  "Package Control: Install Package"
