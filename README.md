@@ -1,4 +1,4 @@
-![wow.png](./eg-demo.gif)       
+![eg-demo.gif](https://user-images.githubusercontent.com/11075892/42127346-43385464-7cc9-11e8-86d7-9c1d34cf37a8.gif)       
     
      
      
