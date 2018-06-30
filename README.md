@@ -1,4 +1,4 @@
-![eg-demo.gif](https://user-images.githubusercontent.com/11075892/42127570-c0dbed82-7ccd-11e8-8d95-e10e325237f9.gif)       
+![eg.gif](https://user-images.githubusercontent.com/11075892/42127612-980c4068-7cce-11e8-8ab9-d4bf9055d42e.gif)       
     
      
      
