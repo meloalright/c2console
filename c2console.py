@@ -1,5 +1,5 @@
 '''
- c2console v1.3.0
+ c2console v1.8.0
  @meloalright
 '''
 import sublime

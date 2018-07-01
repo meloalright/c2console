@@ -1,6 +1,6 @@
 {
   "name": "c2console",
-  "version": "1.3.0",
+  "version": "1.8.0",
   "description": "A simple sublime plugin to complete console.log automatically when type letter c",
   "main": "c2console.py",
   "scripts": {
