@@ -1,4 +1,4 @@
-![eg.gif](https://user-images.githubusercontent.com/11075892/42135871-fad25c36-7d83-11e8-966b-bc26abefb45c.gif)          
+![fibonacci.gif](https://user-images.githubusercontent.com/11075892/42141517-4f0e70de-7ddc-11e8-81de-0eae3480cd91.gif)          
     
      
      
