@@ -1,10 +1,10 @@
-![fibonacci.gif](https://user-images.githubusercontent.com/11075892/42141517-4f0e70de-7ddc-11e8-81de-0eae3480cd91.gif)          
+![fibonacci.gif](https://user-images.githubusercontent.com/11075892/42141772-d33154de-7ddd-11e8-86dc-a08678e014f0.gif)          
     
      
      
      
 # c2console   
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) [![downloads](https://img.shields.io/badge/downloads-100%2B%2Fmonth-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) [![downloads](https://img.shields.io/badge/downloads-100%2B-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
     
     
    
