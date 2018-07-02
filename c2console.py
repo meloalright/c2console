@@ -1,7 +1,3 @@
-'''
- c2console v1.8.0
- @meloalright
-'''
 import sublime
 import sublime_plugin
 import re
