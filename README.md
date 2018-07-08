@@ -58,4 +58,4 @@ Author: [@meloalright](https://github.com/meloalright)
    
 ## license   
    
-[MIT](https://revolunet.mit-license.org/)   
+[MIT](https://opensource.org/licenses/MIT)   
