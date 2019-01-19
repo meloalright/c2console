@@ -4,7 +4,7 @@
      
      
 # c2console   
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) [![downloads](https://img.shields.io/badge/downloads-100%2B-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://revolunet.mit-license.org/) [![downloads](https://img.shields.io/badge/downloads-200%2B-brightgreen.svg)](https://packagecontrol.io/packages/C2console)     
     
     
    
